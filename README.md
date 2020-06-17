@@ -6,7 +6,7 @@ bash <(curl -s https://raw.githubusercontent.com/gushmazuko/metasploit_in_termux
 ```
 OR
 ```bash
-wget https://raw.githubusercontent.com/gushmazuko/metasploit_in_termux/master/metasploit.sh
+wget https://raw.githubusercontent.com/anonymousbangla/metasploit_in_termux/master/metasploit.sh
 
 chmod +x metasploit.sh
 
